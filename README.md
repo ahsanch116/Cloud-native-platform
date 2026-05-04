@@ -1,4 +1,4 @@
-# ☁️ Cloud-Native Platform — Production-Grade Microservices on AWS EKS
+# Kubernetes Microservices Platform — GitOps | Terraform | GitHub Actions | Helm | Prometheus & Grafana on AWS EKS
 
 A complete, production-style cloud-native platform built from scratch using Kubernetes, GitOps, and Infrastructure as Code. This project demonstrates a full end-to-end DevOps workflow — from writing code locally to automated deployment on AWS using industry-standard tooling.
 
